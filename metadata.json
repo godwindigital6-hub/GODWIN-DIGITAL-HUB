@@ -1,0 +1,6 @@
+{
+  "name": "Godwin Digital Hub",
+  "description": "Godwin Digital Hub helps entrepreneurs, creators, and businesses build professional websites, sales funnels, digital stores, marketing systems, AI automation, and video content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
